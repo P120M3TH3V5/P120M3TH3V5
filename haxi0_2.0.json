@@ -1,12 +1,7 @@
 {
-    "name": "haxi0's Source",
-    "subtitle": "A source for all of my apps",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
-    "headerURL": "https://avatars.githubusercontent.com/u/85764897?v=4",
-    "website": "https://haxi0.space/",
-    "tintColor": "#F54F32",
-    "featuredApps": ["com.haxi0.TrollBoard-Reborn", "org.haxi0.Derootifier", "org.haxi0.TrollLock"],
+    "name": "P120M3TH35's Repo",
+	"identifier": "xyz.hieuddo.ipalibrary",
+	"sourceURL": "https://raw.githubusercontent.com/P120M3TH3V5/P120M3TH3V5/main/haxi0_2.0.json",
     "apps": [
         {
             "name": "Jaility",
