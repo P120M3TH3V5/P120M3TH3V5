@@ -1,0 +1,27 @@
+{
+    "name": "P120M3TH35's Repo",
+	"identifier": "com.P120M3TH3V5.repo",
+	"sourceURL": "https://raw.githubusercontent.com/P120M3TH3V5/P120M3TH3V5/main/haxi0_2.0.json",
+    "apps": [
+        {
+            "name": "TOR Browser: OrNET+",
+            "bundleIdentifier": "com.P120M3TH3V5.TORBrowser",
+            "developerName": "Injected By P120M3TH3V5",
+            "subtitle": "TOR Browser for iOS with all Premium features.",
+            "localizedDescription": "TOR Browser for iOS with all Premium features.",
+            "iconURL": "https://raw.githubusercontent.com/P120M3TH3V5/P120M3TH3V5/blob/main/icons/com.P120M3TH3V5.TORBrowser.png",
+            "tintColor": "#A057C6",
+            "versions": [
+                {
+                  "version": "3.4.11",
+                  "date": "2024-02-16",
+                  "localizedDescription": "TOR Browser for iOS with all Premium features.",
+                  "downloadURL": "https://raw.githubusercontent.com/P120M3TH3V5/P120M3TH3V5/releases/download/Release/TOR-Browser-Ornet+-v3.4.11.ipa",
+                  "size": 82600000,
+                }
+              ],
+            "appPermissions": {}
+        },
+    ],
+    "news": []
+  }
