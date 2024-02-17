@@ -9,14 +9,14 @@
             "developerName": "Injected By P120M3TH3V5",
             "subtitle": "TOR Browser for iOS with all Premium features.",
             "localizedDescription": "TOR Browser for iOS with all Premium features.",
-            "iconURL": "https://github.com/P120M3TH3V5/P120M3TH3V5/main/icons/com.P120M3TH3V5.TORBrowser.png",
+            "iconURL": "https://raw.githubusercontent.com/P120M3TH3V5/P120M3TH3V5/main/icons/com.P120M3TH3V5.TORBrowser.png",
             "tintColor": "#A057C6",
             "versions": [
                 {
                   "version": "3.4.11",
                   "date": "2024-02-16",
                   "localizedDescription": "TOR Browser for iOS with all Premium features.",
-                  "downloadURL": "https://raw.githubusercontent.com/P120M3TH3V5/P120M3TH3V5/releases/download/Release/TOR-Browser-Ornet+-v3.4.11.ipa",
+                  "downloadURL": "https://github.com/P120M3TH3V5/P120M3TH3V5/releases/download/Release/TOR-Browser-Ornet+-v3.4.11.ipa",
                   "size": 82600000,
                 }
               ],
