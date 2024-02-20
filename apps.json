@@ -22,7 +22,7 @@
               ],
             "appPermissions": {}
         },
-				{
+	{
             "name": "MileIQ+",
             "bundleIdentifier": "com.P120M3TH3V5.MileIQ",
             "developerName": "MileIQ Inc.",
