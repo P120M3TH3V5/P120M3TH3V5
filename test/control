@@ -1,0 +1,9 @@
+Package: com.P120M3TH3V5.test
+Name: Test
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: P120M3TH3V5
+Author: P120M3TH3V5
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
